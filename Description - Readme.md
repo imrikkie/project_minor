@@ -143,7 +143,7 @@ These metrics were used to compare model performance and optimize prediction acc
 - Effective handling of non-linear stock market patterns
 
 ### Best Performing Model
-✅ XGBoost achieved the best overall performance with:
+ XGBoost achieved the best overall performance with:
 - Lowest prediction error
 - Highest directional accuracy
 - Better investment decision support capability
