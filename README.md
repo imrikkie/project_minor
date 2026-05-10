@@ -169,7 +169,7 @@ These metrics were used to compare model performance and optimize prediction acc
 - Adaptive market regime modeling
 
 --
----
+
 
 # License
 This project is intended for academic and educational purposes only.
