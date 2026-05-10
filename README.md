@@ -157,18 +157,7 @@ These metrics were used to compare model performance and optimize prediction acc
 - Trend Distribution Analysis
 - Model Performance Comparison Graphs
 
----
-
-# Repository Structure
-
-```bash
-├── ML_project_pred.ipynb
-├── Untitled1.ipynb
-├── datasets/
-├── outputs/
-├── plots/
-└── README.md
-```
+--
 
 ---
 
@@ -179,13 +168,7 @@ These metrics were used to compare model performance and optimize prediction acc
 - Deep learning-based forecasting
 - Adaptive market regime modeling
 
----
-
-# Contributors
-- Ritik Pathak
-- Kanuri Varshini
-- Nimesh Kumar Kashyap
-
+--
 ---
 
 # License
