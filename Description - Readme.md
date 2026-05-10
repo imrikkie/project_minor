@@ -167,7 +167,7 @@ These metrics were used to compare model performance and optimize prediction acc
 - Deep learning-based forecasting
 - Adaptive market regime modeling
 
---
+---
 
 
 # License
